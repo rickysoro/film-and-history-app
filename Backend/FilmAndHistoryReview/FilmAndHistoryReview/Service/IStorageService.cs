@@ -15,7 +15,7 @@ namespace FilmAndHistoryReview.Core.Service
 
         public Review AddReview(int userId, int movieId, string comment);
 
-        public Review UpdateReview(int id, int userId, int movieId, string comment);
+        public Review UpdateReview(int id, string comment);
 
         public void DeleteReview(int id);
     }
