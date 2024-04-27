@@ -1,0 +1,6 @@
+@FilmAndHistoryReview.RestAPI_HostAddress = http://localhost:5294
+
+GET {{FilmAndHistoryReview.RestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
