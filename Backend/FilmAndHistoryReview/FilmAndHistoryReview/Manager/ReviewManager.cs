@@ -34,6 +34,6 @@ namespace FilmAndHistoryReview.Core.Manager
             return _storageService.UpdateReview(id, comment);
         }
 
-        public void DeleteReview(int id) => _storageService?.DeleteReview(id);
+        public void DeleteReview(int id) => _storageService.DeleteReview(id);
     }
 }

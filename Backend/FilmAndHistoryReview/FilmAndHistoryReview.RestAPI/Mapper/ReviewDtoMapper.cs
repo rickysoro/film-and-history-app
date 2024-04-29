@@ -9,9 +9,9 @@ namespace FilmAndHistoryReview.RestAPI.Mapper
         public static ReviewDto From(Review review) => new ReviewDto
         {
             Id = review.Id,
-            UserId = review.userId,
-            MovieId = review.movieId,
-            Comment = review.comment
+            UserId = review.UserId,
+            MovieId = review.MovieId,
+            Comment = review.Comment,
         };
     }
 }

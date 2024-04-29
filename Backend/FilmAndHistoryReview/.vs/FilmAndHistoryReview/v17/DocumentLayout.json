@@ -7,48 +7,52 @@
       "RelativeMoniker": "D:0:0:{5D538DE1-1408-4F18-8B23-DC943C9B6767}|FilmAndHistoryReview.RestAPI\\FilmAndHistoryReview.RestAPI.csproj|solutionrelative:filmandhistoryreview.restapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D538DE1-1408-4F18-8B23-DC943C9B6767}|FilmAndHistoryReview.RestAPI\\FilmAndHistoryReview.RestAPI.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview.restapi\\model\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D538DE1-1408-4F18-8B23-DC943C9B6767}|FilmAndHistoryReview.RestAPI\\FilmAndHistoryReview.RestAPI.csproj|solutionrelative:filmandhistoryreview.restapi\\model\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview\\manager\\reviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|solutionrelative:filmandhistoryreview\\manager\\reviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D538DE1-1408-4F18-8B23-DC943C9B6767}|FilmAndHistoryReview.RestAPI\\FilmAndHistoryReview.RestAPI.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview.restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D538DE1-1408-4F18-8B23-DC943C9B6767}|FilmAndHistoryReview.RestAPI\\FilmAndHistoryReview.RestAPI.csproj|solutionrelative:filmandhistoryreview.restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D538DE1-1408-4F18-8B23-DC943C9B6767}|FilmAndHistoryReview.RestAPI\\FilmAndHistoryReview.RestAPI.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview.restapi\\mapper\\reviewdtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D538DE1-1408-4F18-8B23-DC943C9B6767}|FilmAndHistoryReview.RestAPI\\FilmAndHistoryReview.RestAPI.csproj|solutionrelative:filmandhistoryreview.restapi\\mapper\\reviewdtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D538DE1-1408-4F18-8B23-DC943C9B6767}|FilmAndHistoryReview.RestAPI\\FilmAndHistoryReview.RestAPI.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview.restapi\\model\\reviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D538DE1-1408-4F18-8B23-DC943C9B6767}|FilmAndHistoryReview.RestAPI\\FilmAndHistoryReview.RestAPI.csproj|solutionrelative:filmandhistoryreview.restapi\\model\\reviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D538DE1-1408-4F18-8B23-DC943C9B6767}|FilmAndHistoryReview.RestAPI\\FilmAndHistoryReview.RestAPI.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview.restapi\\model\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D538DE1-1408-4F18-8B23-DC943C9B6767}|FilmAndHistoryReview.RestAPI\\FilmAndHistoryReview.RestAPI.csproj|solutionrelative:filmandhistoryreview.restapi\\model\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview\\manager\\reviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|solutionrelative:filmandhistoryreview\\manager\\reviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview\\service\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|solutionrelative:filmandhistoryreview\\service\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview\\service\\inmemorystorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|solutionrelative:filmandhistoryreview\\service\\inmemorystorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview\\exceptions\\texttooshortexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|solutionrelative:filmandhistoryreview\\exceptions\\texttooshortexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|solutionrelative:filmandhistoryreview\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview\\service\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|solutionrelative:filmandhistoryreview\\service\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D538DE1-1408-4F18-8B23-DC943C9B6767}|FilmAndHistoryReview.RestAPI\\FilmAndHistoryReview.RestAPI.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview.restapi\\model\\reviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D538DE1-1408-4F18-8B23-DC943C9B6767}|FilmAndHistoryReview.RestAPI\\FilmAndHistoryReview.RestAPI.csproj|solutionrelative:filmandhistoryreview.restapi\\model\\reviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview\\exceptions\\reviewnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|solutionrelative:filmandhistoryreview\\exceptions\\reviewnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview\\filmandhistoryreview.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|solutionrelative:filmandhistoryreview\\filmandhistoryreview.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5D538DE1-1408-4F18-8B23-DC943C9B6767}|FilmAndHistoryReview.RestAPI\\FilmAndHistoryReview.RestAPI.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview.restapi\\model\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D538DE1-1408-4F18-8B23-DC943C9B6767}|FilmAndHistoryReview.RestAPI\\FilmAndHistoryReview.RestAPI.csproj|solutionrelative:filmandhistoryreview.restapi\\model\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|solutionrelative:filmandhistoryreview\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview\\exceptions\\texttooshortexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|solutionrelative:filmandhistoryreview\\exceptions\\texttooshortexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|c:\\users\\a\\documents\\codice\\progetti\\filmehistoryapp\\backend\\filmandhistoryreview\\filmandhistoryreview\\filmandhistoryreview.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60265242-52DA-4997-A565-FD55C5CDE742}|FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj|solutionrelative:filmandhistoryreview\\filmandhistoryreview.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,55 +73,20 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ErrorResponse.cs",
-              "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Model\\ErrorResponse.cs",
-              "RelativeDocumentMoniker": "FilmAndHistoryReview.RestAPI\\Model\\ErrorResponse.cs",
-              "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Model\\ErrorResponse.cs",
-              "RelativeToolTip": "FilmAndHistoryReview.RestAPI\\Model\\ErrorResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T10:08:15.024Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ReviewRequest.cs",
-              "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Model\\ReviewRequest.cs",
-              "RelativeDocumentMoniker": "FilmAndHistoryReview.RestAPI\\Model\\ReviewRequest.cs",
-              "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Model\\ReviewRequest.cs",
-              "RelativeToolTip": "FilmAndHistoryReview.RestAPI\\Model\\ReviewRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T10:05:38.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ReviewDtoMapper.cs",
               "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Mapper\\ReviewDtoMapper.cs",
               "RelativeDocumentMoniker": "FilmAndHistoryReview.RestAPI\\Mapper\\ReviewDtoMapper.cs",
               "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Mapper\\ReviewDtoMapper.cs",
               "RelativeToolTip": "FilmAndHistoryReview.RestAPI\\Mapper\\ReviewDtoMapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T09:48:16.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ReviewDto.cs",
-              "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Model\\ReviewDto.cs",
-              "RelativeDocumentMoniker": "FilmAndHistoryReview.RestAPI\\Model\\ReviewDto.cs",
-              "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Model\\ReviewDto.cs",
-              "RelativeToolTip": "FilmAndHistoryReview.RestAPI\\Model\\ReviewDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T09:31:13.491Z",
               "EditorCaption": ""
             },
             {
@@ -128,14 +97,14 @@
               "RelativeDocumentMoniker": "FilmAndHistoryReview.RestAPI\\Controllers\\ReviewController.cs",
               "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Controllers\\ReviewController.cs",
               "RelativeToolTip": "FilmAndHistoryReview.RestAPI\\Controllers\\ReviewController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T09:30:10.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "TextTooShortException.cs",
               "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview\\Exceptions\\TextTooShortException.cs",
               "RelativeDocumentMoniker": "FilmAndHistoryReview\\Exceptions\\TextTooShortException.cs",
@@ -147,13 +116,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ReviewManager.cs",
               "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview\\Manager\\ReviewManager.cs",
               "RelativeDocumentMoniker": "FilmAndHistoryReview\\Manager\\ReviewManager.cs",
               "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview\\Manager\\ReviewManager.cs",
               "RelativeToolTip": "FilmAndHistoryReview\\Manager\\ReviewManager.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAABOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T15:36:07.225Z",
               "EditorCaption": ""
@@ -166,37 +135,104 @@
               "RelativeDocumentMoniker": "FilmAndHistoryReview\\Exceptions\\ReviewNotFoundException.cs",
               "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview\\Exceptions\\ReviewNotFoundException.cs",
               "RelativeToolTip": "FilmAndHistoryReview\\Exceptions\\ReviewNotFoundException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T09:41:04.254Z"
+              "WhenOpened": "2024-04-26T09:41:04.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "InMemoryStorageService.cs",
-              "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview\\Service\\InMemoryStorageService.cs",
-              "RelativeDocumentMoniker": "FilmAndHistoryReview\\Service\\InMemoryStorageService.cs",
-              "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview\\Service\\InMemoryStorageService.cs",
-              "RelativeToolTip": "FilmAndHistoryReview\\Service\\InMemoryStorageService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwCUAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T09:07:30.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "IStorageService.cs",
               "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview\\Service\\IStorageService.cs",
               "RelativeDocumentMoniker": "FilmAndHistoryReview\\Service\\IStorageService.cs",
               "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview\\Service\\IStorageService.cs",
               "RelativeToolTip": "FilmAndHistoryReview\\Service\\IStorageService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T08:48:43.11Z"
+              "WhenOpened": "2024-04-26T08:48:43.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview\\Service\\InMemoryStorageService.cs",
+              "RelativeDocumentMoniker": "FilmAndHistoryReview\\Service\\InMemoryStorageService.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview\\Service\\InMemoryStorageService.cs",
+              "RelativeToolTip": "FilmAndHistoryReview\\Service\\InMemoryStorageService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvygAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:07:30.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview\\Model\\Review.cs",
+              "RelativeDocumentMoniker": "FilmAndHistoryReview\\Model\\Review.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview\\Model\\Review.cs",
+              "RelativeToolTip": "FilmAndHistoryReview\\Model\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:11:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FilmAndHistoryReview.RestAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Program.cs",
+              "RelativeToolTip": "FilmAndHistoryReview.RestAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:13:00.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Model\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "FilmAndHistoryReview.RestAPI\\Model\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Model\\ReviewDto.cs",
+              "RelativeToolTip": "FilmAndHistoryReview.RestAPI\\Model\\ReviewDto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:31:13.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReviewRequest.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Model\\ReviewRequest.cs",
+              "RelativeDocumentMoniker": "FilmAndHistoryReview.RestAPI\\Model\\ReviewRequest.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Model\\ReviewRequest.cs",
+              "RelativeToolTip": "FilmAndHistoryReview.RestAPI\\Model\\ReviewRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:05:38.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Model\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "FilmAndHistoryReview.RestAPI\\Model\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview.RestAPI\\Model\\ErrorResponse.cs",
+              "RelativeToolTip": "FilmAndHistoryReview.RestAPI\\Model\\ErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:08:15.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "FilmAndHistoryReview.Core.csproj",
               "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj",
               "RelativeDocumentMoniker": "FilmAndHistoryReview\\FilmAndHistoryReview.Core.csproj",
@@ -205,22 +241,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-26T08:47:21.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview\\Model\\Review.cs",
-              "RelativeDocumentMoniker": "FilmAndHistoryReview\\Model\\Review.cs",
-              "ToolTip": "C:\\Users\\A\\Documents\\Codice\\Progetti\\FilmEHistoryApp\\Backend\\FilmAndHistoryReview\\FilmAndHistoryReview\\Model\\Review.cs",
-              "RelativeToolTip": "FilmAndHistoryReview\\Model\\Review.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T16:11:39.304Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -38,7 +38,7 @@ namespace FilmAndHistoryReview.Core.Service
         public Review UpdateReview(int id, string comment)
         {
             var reviewToUpdate = FindReviewByIdOrFail(id);
-            reviewToUpdate.comment = comment;
+            reviewToUpdate.Comment = comment;
             return reviewToUpdate;
         }
 

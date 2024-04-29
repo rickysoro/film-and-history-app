@@ -20,22 +20,22 @@
             get { return _id; }
         }
 
-        public int userId
+        public int UserId
         {
-            get { return userId; }
+            get { return _userId; }
             set { _userId = value; }
         }
 
-        public int movieId
+        public int MovieId
         {
-            get { return movieId; }
-            set { movieId = value; }
+            get { return _movieId; }
+            set { _movieId = value; }
         }
 
-        public string comment
+        public string Comment
         {
-            get { return comment; }
-            set { comment = value; }
+            get { return _comment; }
+            set { _comment = value; }
         }
     }
 }

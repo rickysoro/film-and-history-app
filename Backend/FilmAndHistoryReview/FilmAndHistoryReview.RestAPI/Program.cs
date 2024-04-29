@@ -1,4 +1,7 @@
 
+using FilmAndHistoryReview.Core.Manager;
+using FilmAndHistoryReview.Core.Service;
+
 namespace FilmAndHistoryReview.RestAPI
 {
     public class Program
@@ -13,6 +16,9 @@ namespace FilmAndHistoryReview.RestAPI
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddSingleton<IStorageService, InMemoryStorageService>();
+            builder.Services.AddSingleton<ReviewManager>();
 
             var app = builder.Build();
 
