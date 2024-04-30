@@ -1,6 +1,7 @@
 
 using FilmAndHistoryReview.Core.Manager;
 using FilmAndHistoryReview.Core.Service;
+using FilmAndHistoryReview.DB.Service;
 
 namespace FilmAndHistoryReview.RestAPI
 {
@@ -17,7 +18,7 @@ namespace FilmAndHistoryReview.RestAPI
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
-            builder.Services.AddSingleton<IStorageService, InMemoryStorageService>();
+            builder.Services.AddSingleton<IStorageService, MySqlStorageService>();
             builder.Services.AddSingleton<ReviewManager>();
 
             var app = builder.Build();
@@ -28,6 +29,13 @@ namespace FilmAndHistoryReview.RestAPI
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+
+            app.UseCors(builder =>
+            {
+                builder.AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader();
+            });
 
             app.UseAuthorization();
 

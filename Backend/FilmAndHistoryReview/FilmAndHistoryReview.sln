@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilmAndHistoryReview.Core", "FilmAndHistoryReview\FilmAndHistoryReview.Core.csproj", "{60265242-52DA-4997-A565-FD55C5CDE742}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmAndHistoryReview.RestAPI", "FilmAndHistoryReview.RestAPI\FilmAndHistoryReview.RestAPI.csproj", "{5D538DE1-1408-4F18-8B23-DC943C9B6767}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilmAndHistoryReview.RestAPI", "FilmAndHistoryReview.RestAPI\FilmAndHistoryReview.RestAPI.csproj", "{5D538DE1-1408-4F18-8B23-DC943C9B6767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmAndHistoryReview.DB", "FilmAndHistoryReview.DB\FilmAndHistoryReview.DB.csproj", "{EA6E2EAD-9A3B-4E39-B9F7-338D7595CD89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5D538DE1-1408-4F18-8B23-DC943C9B6767}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D538DE1-1408-4F18-8B23-DC943C9B6767}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D538DE1-1408-4F18-8B23-DC943C9B6767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6E2EAD-9A3B-4E39-B9F7-338D7595CD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6E2EAD-9A3B-4E39-B9F7-338D7595CD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6E2EAD-9A3B-4E39-B9F7-338D7595CD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6E2EAD-9A3B-4E39-B9F7-338D7595CD89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
